@@ -1,1 +1,1 @@
-asset.pipeline.JsAssetFile=asset.pipeline.groovytemplate.JavascriptUrlAwareProcessor
+asset.pipeline.JsAssetFile=com.github.tednaleid.groovytemplate.JavascriptUrlAwareProcessor

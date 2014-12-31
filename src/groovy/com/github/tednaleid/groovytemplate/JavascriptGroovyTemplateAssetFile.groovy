@@ -1,4 +1,4 @@
-package asset.pipeline.groovytemplate
+package com.github.tednaleid.groovytemplate
 
 import asset.pipeline.AbstractAssetFile
 import groovy.transform.CompileStatic
